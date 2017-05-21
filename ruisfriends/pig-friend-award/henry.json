@@ -1,0 +1,14 @@
+{
+  "uid": "a1b2c3d4e5",
+  "recipient": {
+    "type": "email",
+    "identity": "henry@g.com",
+    "hashed": false
+  },
+  "issuedOn":  1388534400,
+  "badge": "https://github.com/ruhan1/openbadges/blob/master/ruisfriends/pig-friend-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://github.com/ruhan1/openbadges/blob/master/ruisfriends/pig-friend-award/henry.json"
+  }
+}
