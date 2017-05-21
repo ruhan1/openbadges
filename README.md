@@ -1,2 +1,2 @@
 # openbadges
-Open badges home issued by Henry Han
+Rui Han's Open badge home

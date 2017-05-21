@@ -1,6 +1,6 @@
 {
-  "name": "Rui Han",
-  "description": "Get Pig-friend badge to become Rui's best friend.",
+  "name": "Pig-friend",
+  "description": "Rui's best friend.",
   "image": "https://raw.githubusercontent.com/ruhan1/openbadges/master/ruisfriends/pig-friend-image.png",
   "criteria": "https://raw.githubusercontent.com/ruhan1/openbadges/master/ruisfriends/pig-friend-criteria.html",
   "issuer": "https://raw.githubusercontent.com/ruhan1/openbadges/master/badge-issuer.json"
